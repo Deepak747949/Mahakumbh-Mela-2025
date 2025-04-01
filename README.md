@@ -37,7 +37,7 @@ This project leverages a **simulated dataset** representing real-world event tre
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](https://github.com/user-attachments/assets/f3b306b3-b3a8-4efd-b548-116909af47b0)
+![Dashboard](https://github.com/Deepak747949/Mahakumbh-Mela-2025/blob/main/Screenshot%202025-04-01%20235928.png)
 
 ---
 
